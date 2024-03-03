@@ -1,0 +1,26 @@
+{
+"name": "wowodeshiyigefeichangfeichangshuaiqideshuaigege",
+"version": "1.0.0",
+"description": "Take control of your health and wellness journey with our",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/jonywang7/ealth-Tracker.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "jonywang7",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
